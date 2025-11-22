@@ -14,7 +14,7 @@ This repository contains:
 Recently, YouTube's playback-speed UI has become inconsistent. Some videos show the full speed menu (0.25x → 2x). Some show the menu with "1x" as the only option.
 
 ![Options](img/options.png)
-<p align="center"><em>YouTube's playback-speed menu sometimes appears, sometimes doesn't.</em></p>
+<p><em>YouTube's playback-speed menu sometimes appears, sometimes doesn't.</em></p>
 
 The underlying video element still supports speed changes. It's as simple as opening the terminal, and entering:
 ```
@@ -34,7 +34,7 @@ Nice and easy! But who wants to crack open the terminal every time they want to 
 
 ## Screenshots
 ![Controls](img/controls.png)
-<p><em>YouTube's playback-speed menu sometimes appears, sometimes doesn't.</em></p>
+<p><em>Custom playback speed settings.</em></p>
 <br /><br />
 
 ![Dark Mode](img/lightdark.png)
